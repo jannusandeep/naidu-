@@ -1,3 +1,8 @@
 hi
+<<<<<<< HEAD
 hello
 iam sandeep
+=======
+iam creating a file
+for git process
+>>>>>>> 4b5524f5894ef216150f3689d9227e72d3b1b484
